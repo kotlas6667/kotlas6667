@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kotlas6667
-- 👀 I’m interested in VB.NET, C# , Python , B4A , PLC Siemens , KUKA Robots , Pp for CNC .... 
-- 🌱 I’m currently learning Python , C#
-- 💞️ I’m looking to collaborate on VB.NET , KUKA robot programing
+- 👀 I’m interested in Mendix, VB.NET, C# , Python , B4A , PLC Siemens , KUKA Robots , Pp for CNC .... 
+- 🌱 I’m currently learning Mendix, Python , C#
 - 📫 How to reach me tomas.horvat6667@gmail.com
 
 <!---
